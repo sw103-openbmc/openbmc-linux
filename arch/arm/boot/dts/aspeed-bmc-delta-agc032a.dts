@@ -3,7 +3,7 @@
 /dts-v1/;
 
 #include <dt-bindings/gpio/aspeed-gpio.h>
-#include "facebook-netbmc-ast2500-common.dtsi"
+#include "ast2500-facebook-netbmc-common.dtsi"
 
 / {
 	model = "DELTA AGC032A BMC";
